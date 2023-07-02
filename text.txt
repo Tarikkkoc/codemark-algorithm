@@ -1,0 +1,22 @@
+Algoritma Sorusu
+
+Verilen Sayının Rakamlarına Bölümü
+
+Size verilmiş olan sayının basamaklarındaki rakamlara bölümünü gösteren bir fonksiyon yazılması.
+
+Örneğin
+
+X = 124 sayısının basamakları 1,2,4 dür
+• 124 sayısının 1 ile tam bölündüğü için 1 dir,
+• 124 sayısının 2 ile tam bölündüğü için 1 dir,
+• 124 sayısının 4 ile tam bölündüğü için 1 dir,
+Sonuç olarak cevap 3 dönmelidir.
+
+X = 2684 sayısının basamakları 2,6,8,4 dür.
+• 2684 sayısı 2 ile tam bölündüğü için 1 dir,
+• 2684 sayısı 6 ile tam bölünmediği için 0 dır,
+• 2684 sayısı 8 ile tam bölünmediği için 0 dır,
+• 2684 sayısı 4 ile tam bölünmediği için 1 dir
+Sonuç olarak cevap 2 dönmelidir.
+
+Gönderilecek Sayılar = [1257, 554, 68921, 78521, 123]
